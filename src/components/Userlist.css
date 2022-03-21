@@ -1,0 +1,31 @@
+.card {
+    
+    width: 20rem;
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border : 1px solid grey;
+
+}
+.container {
+    
+    display: flex;
+    gap: 1rem;
+    height: 70vh;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.h1 {
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.buttons {
+    background-color: red;
+    justify-content: center;
+    gap: 2rem;
+}
